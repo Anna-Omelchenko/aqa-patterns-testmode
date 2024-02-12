@@ -1,1 +1,2 @@
 # aqa-patterns-testmode
+[![Java CI with Gradle](https://github.com/Anna-Omelchenko/aqa-patterns-testmode/actions/workflows/gradle.yml/badge.svg)](https://github.com/Anna-Omelchenko/aqa-patterns-testmode/actions/workflows/gradle.yml)
